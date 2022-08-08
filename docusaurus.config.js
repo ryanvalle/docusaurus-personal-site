@@ -62,7 +62,7 @@ const config = {
           //   label: 'Tutorial',
           // },
           {
-            to: '/html/resume.html', 
+            to: '/resume', 
             label: 'Resume', 
             position: 'left',
             target: 'blank'

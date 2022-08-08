@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jsonresume-theme-class": "^0.1.2",
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-kards": "^1.0.2",
+    "jsonresume-theme-keloran": "^1.0.2",
+    "jsonresume-theme-tan-responsive": "^0.0.7"
+  }
+}

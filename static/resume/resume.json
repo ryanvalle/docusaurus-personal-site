@@ -1,0 +1,199 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ryan Valle",
+    "label": "Lead Software Engineer",
+    "image": "",
+    "email": "ryanvalle@me.com",
+    "phone": "(818) 282-5691",
+    "url": "https://www.ryanvalle.me",
+    "summary": "Test Software engineer with experience in developing large scale websites including e-commerce.",
+    "location": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "ryanvalle",
+        "url": "https://github.com/ryanvalle"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ryanvalle",
+        "url": "https://linkedin.com/in/ryanvalle1"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Disney Parks, Experiences, and Products",
+      "company": "Disney Parks, Experiences, and Products",
+      "location": "Glendale, CA",
+      "description": "Disney Parks, Experiences, and Products",
+      "position": "Lead Software Engineer",
+      "startDate": "2021-11",
+      "summary": "Supported development teams for shopDisney.com, including project oversight, project coordination, release management, and site operations.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Disney Consumer Products and Interactive",
+      "company": "Disney Consumer Products and Interactive",
+      "location": "Glendale, CA",
+      "position": "Senior Software Engineer",
+      "startDate": "2017-09",
+      "endDate": "2020-11",
+      "summary": "Supported development of the shopDisney.com website and it's transition to Salesforce Commerce Cloud.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Disney Consumer Products and Interactive",
+      "company": "Disney Consumer Products and Interactive",
+      "location": "Glendale, CA",
+      "position": "Software Engineer",
+      "startDate": "2016-01",
+      "endDate": "2017-09",
+      "summary": "Supported development of Disney websites including shopDisney.com, Disney.com, and DisneyInfinity.com",
+      "highlights": [
+        "Focused on development of product list pages for shopDisney, including optimizations for product sorting and filtering logic"
+      ]
+    },
+    {
+      "name": "Disney Consumer Products and Interactive",
+      "company": "Disney Consumer Products and Interactive",
+      "location": "Glendale, CA",
+      "position": "Associate Web Developer",
+      "startDate": "2014-04",
+      "endDate": "2015-12",
+      "summary": "Front-end web developer for the official Disney Infinity website",
+      "highlights": [
+        "Worked with product and UX design teams to develop and deliver marketing pages for the Disney Infinity 2 and Disney Infinity 3 launches",
+        "Partnered with game development teams and back-end engineers to integrate game activity boards and profiles into player profiles on the site"
+      ]
+    },
+    {
+      "name": "Disney Interactive",
+      "company": "Disney Interactive",
+      "location": "Glendale, CA",
+      "position": "Associate Community Developer",
+      "startDate": "2012-06",
+      "endDate": "2014-03",
+      "summary": "Helped to manage the internal communication of business updates to teams in the form of weekly newsletter, coordination and production of regular team meetings, and various forms of media production including videos and presentations (Keynote, Powerpoint)",
+      "highlights": [
+        "Managed various media assets such as videos, logos, and concept and key art",
+        "Produced video and provided photography for internal and external audiences (e.g. YouTube, Facebook, Twitter)",
+        "Coordinated asset reviews with various stakeholders, including legal, marketing, and Feature Animation, to acquire appropriate approvals of various IPs for use in products",
+        "Managed mobile device and build distribution for mobile products (iOS and Android)",
+        "Developed and managed an internal online games portal for the promotion and distribution of online, browser-based games to various stakeholders",
+        "Prototyped various web tools and sites to help communicate ideas and streamline various production workflows",
+        "Communicated and tracked of technical requirements between development studios and internal teams within the company",
+        "Provided web development support, focusing on front-end development to help build out product features, the skinning/customization of existing code bases and frameworks, as well as debugging and bug fixing various errors in code to help deliver a quality experience for guests"
+      ]
+    },
+    {
+      "name": "Disney Interactive Media Group",
+      "company": "Disney Interactive Media Group",
+      "location": "Glendale, CA",
+      "position": "Undergraduate Associate, Video Editing Co-Op",
+      "startDate": "2011-06",
+      "endDate": "2012-06",
+      "summary": "Supported the internal communities team in helping to streamline communication, enable knowledge sharing, and improve person-to-person collaboration through videos and web media.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Randy Witt Productions",
+      "company": "Randy Witt Productions",
+      "location": "Van Nuys, CA",
+      "position": "Video Editor",
+      "startDate": "2006-06",
+      "endDate": "2011-06",
+      "summary": "Focused on video editing using Final Cut Pro, but additional responsibilities include secretarial tasks, website design, development, and management, and graphical and print design.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Media Professional",
+      "company": "Media Professional",
+      "position": "Freelance",
+      "startDate": "2005-05",
+      "endDate": "2011-07",
+      "summary": "Provides media services for individuals needing talent in video production and post-production, photography, and web design and development.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Media Professional",
+      "company": "Media Professional",
+      "location": "Northridge, CA",
+      "position": "Student Assistant - Web Developer",
+      "startDate": "2011-02",
+      "endDate": "2011-05",
+      "summary": "Worked with the University's technical team in helping to develop websites and videos for the Tseng College.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Extreme Makeover: Home Edition",
+      "company": "Extreme Makeover: Home Edition",
+      "location": "North Hollywood, CA",
+      "position": "Intern",
+      "startDate": "2010-09",
+      "endDate": "2011-01",
+      "summary": "Worked closely with various casting producers to edit video submissions, creating \"pitch videos\" to be presented during casting meetings for the show. Editing jobs also included cutting videos for the show's marketing department.",
+      "highlights": [
+      ]
+    }
+    
+  ],
+  "education": [
+    {
+      "institution": "California State University, Northridge",
+      "url": "https://www.csun.edu/",
+      "area": "Cinema & Television Arts, Multimedia Production",
+      "studyType": "Bachelor",
+      "startDate": "2007-07-01",
+      "endDate": "2011-05-31"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best In Class - Games Industry Website",
+      "date": "2015",
+      "awarder": "Interactive Media Awards",
+      "summary": "2015 Best In Class Awards for \"Games - Indsutry\" Website for Disney Infinity",
+      "links": [
+        "https://interactivemediaawards.com/winners/certificate.asp?param=409892&cat=1"
+      ]
+    },
+    {
+      "title": "2nd Place - Student Interactive Media Competition - Authorship Projects",
+      "date": "2011",
+      "awarder": "Broadcast Education Association - Festival of Media Arts",
+      "summary": "Received a 2nd place award for personal portfolio site from the 2011 Broadcast Education Association, Festival of Media Arts Competition",
+      "links": [
+        "http://www.beaweb.org/pdfs/2011winners.pdf",
+        "https://www.csun.edu/sites/default/files/Scholarship-2011.pdf"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Photography",
+        "Travel",
+        "Video Production",
+        "Running"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
