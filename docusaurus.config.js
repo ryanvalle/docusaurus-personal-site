@@ -74,8 +74,8 @@ const config = {
           {
             type: 'doc',
             docId: 'overview',
-            position: 'right',
-            label: 'Knowledge Base',
+            position: 'left',
+            label: 'Knowledge Share',
           }
         ],
       },
@@ -86,8 +86,9 @@ const config = {
             title: 'Quick Links',
             items: [
               {
-                label: 'Site Links',
-                to: '/resume',
+                label: 'View Resume',
+                to: '/resume/',
+                target: 'blank'
               },
               {
                 label: 'Running Stuff',
@@ -139,7 +140,7 @@ const config = {
             ]
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()}. Built with Docusaurus.`,
+        copyright: `Copyright ©${new Date().getFullYear()}. Made for fun with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
