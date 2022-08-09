@@ -5,8 +5,8 @@ import Layout from '@theme/Layout';
 import TextBlock from '@site/src/components/TextBlock';
 import GenericHeader from '@site/src/components/GenericHeader';
 import DataTable from "@site/src/components/DataTable"; 
-import {columns as upcomingRacesColumns, upcomingRaces} from './upcoming_races.js'
-import {columns as previousRacesColumns, previousRaces} from './previous_races.js'
+import {columns as upcomingRacesColumns, upcomingRaces} from './_upcoming_races.table'
+import {columns as previousRacesColumns, previousRaces} from './_previous_races.table'
 
 import './running.module.css';
 
