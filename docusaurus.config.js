@@ -55,12 +55,6 @@ const config = {
           src: 'img/emoji-think.png',
         },
         items: [
-          // {
-          //   type: 'doc',
-          //   docId: 'overview',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
           {
             to: '/resume', 
             label: 'Resume', 
@@ -69,19 +63,20 @@ const config = {
           },
           {
             to: '/running-stuff', 
-            label: 'Running', 
+            label: 'Running Stuff', 
             position: 'left'
           },
           {
             to: '/blog', 
-            label: 'Random Thoughts & Stuff', 
+            label: 'Random Thoughts in Writing', 
             position: 'left'
           },
           {
-            href: 'https://github.com/ryanvalle',
-            label: 'GitHub',
+            type: 'doc',
+            docId: 'overview',
             position: 'right',
-          },
+            label: 'Knowledge Base',
+          }
         ],
       },
       footer: {

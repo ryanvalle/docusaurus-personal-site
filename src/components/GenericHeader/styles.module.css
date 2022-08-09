@@ -1,0 +1,34 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.heroBanner {
+  padding: 2rem 0.5rem;
+  text-align: left;
+  position: relative;
+  overflow: hidden;
+  background: var(--ifm-color-primary-darkest);
+  transition: padding 500ms;
+}
+
+.heroBanner {
+  padding: 2rem 0.5rem;
+  text-align: left;
+  position: relative;
+  overflow: hidden;
+  background: var(--ifm-color-primary-darkest);
+  transition: padding 500ms;
+}
+
+.heroText h1, .heroText p {
+  line-height: 1em;
+  margin-bottom: 0;
+}
+
+.heroText p {
+  font-style: italic;
+  font-weight: 200;
+}

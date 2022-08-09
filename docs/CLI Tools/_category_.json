@@ -1,0 +1,10 @@
+{
+    "label": "Command Line Tools",
+    "link": {
+      "type": "generated-index",
+      "title": "Command Line Tools - Table of Context"
+    },
+    "customProps": {
+      "description": "This description can be used in the swizzled DocCard"
+    }
+  }

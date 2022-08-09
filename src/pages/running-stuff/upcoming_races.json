@@ -1,0 +1,16 @@
+[
+    {
+        "date": "2023-01-12",
+        "event": "2023 Walt Disney World Marathon",
+        "type": "marathon",
+        "location": "Orlando, FL",
+        "link": "https://www.rundisney.com/events/disneyworld/disneyworld-marathon-weekend/"
+    },
+    {
+        "date": "2023-01-15",
+        "event": "2023 Rose Bowl Half Marathon",
+        "type": "halfmarathon",
+        "location": "Pasadena, CA",
+        "link": "https://www.mccourtfoundation.org/pages/rose-bowl-half-marathon"
+    }
+]
