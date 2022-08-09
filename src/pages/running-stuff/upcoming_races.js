@@ -5,22 +5,26 @@ export const upcomingRaces = upcoming_races;
 
 export const columns = [
     {
+      Header: "Days Until Race",
+      className: "data-table w15",
+      Cell: ({row: { original } }) => {
+        const d = new Date(`${original.date}T08:00:00+0800`);
+        const today = new Date();
+        const day = 1000*60*60*24;
+        const daysRemaining = Math.ceil( (d.getTime() - today.getTime()) / day);
+        return daysRemaining;
+      }
+    },
+    {
       Header: "Date",
       accessor: "date",
-      className: "data-table w30",
+      className: "data-table w10",
       Cell: ({ cell: { value } }) => {
         const d = new Date(`${value}T08:00:00+0800`);
         const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'];
         const month = months[d.getMonth()];
         const date = `${month} ${d.getUTCDate()}, ${d.getFullYear()}`;
-        const today = new Date();
-        const day = 1000*60*60*24;
-        const daysRemaining = Math.ceil( (d.getTime() - today.getTime()) / day);
-        if (daysRemaining >= 0) {
-          return <span><b>{`${date}`}</b> • <i>{`${daysRemaining}`} days until race</i></span>
-        } else {
-          return <span><b>{`${date}`}</b></span>
-        }
+        return date;
       } 
     },
     {
@@ -58,6 +62,6 @@ export const columns = [
     {
       Header: "Location",
       accessor: "location",
-      className: "data-table twenty",
+      className: "data-table w10",
     }
   ];

@@ -1,0 +1,312 @@
+
+[
+    {
+        "date": "2022-07-24",
+        "event": "2022 San Francisco Half Marathon (1st half)",
+        "type": "half",
+        "location": "San Francisco, CA",
+        "results": "https://www.athlinks.com/event/1403/results/Event/1020821/Course/2266349/Bib/10656",
+        "finish_time": "02:06:00",
+        "recap_video": "https://www.youtube.com/watch?v=Kn2un4osMBc",
+        "is_personal_best": false
+    },
+    {
+        "date": "2022-03-20",
+        "event": "2022 United Airlines NYC Half Marathon",
+        "type": "half",
+        "location": "New York City, NY",
+        "results": "https://www.athlinks.com/event/11270/results/Event/1012351/Course/2226482/Bib/5488",
+        "finish_time": "02:05:11",
+        "recap_video": "https://www.youtube.com/watch?v=oSGiXr6Rxh8",
+        "is_personal_best": false
+    },
+    {
+        "date": "2022-01-09",
+        "event": "2022 Walt Disney World Marathon",
+        "type": "marathon",
+        "location": "Orlando, FL",
+        "results": "https://www.trackshackresults.com/disneysports/results/wdw/wdw22/mar_results.php?Link=117&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "05:59:42",
+        "recap_video": "https://www.youtube.com/watch?v=lYj_sVWmTU0",
+        "is_personal_best": false
+    },
+    {
+        "date": "2022-01-08",
+        "event": "2022 Walt Disney World Half Marathon",
+        "type": "half",
+        "location": "Orlando, FL",
+        "results": "https://www.trackshackresults.com/disneysports/results/wdw/wdw22/hm_results.php?Link=116&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "02:37:58",
+        "recap_video": "https://www.youtube.com/watch?v=o35FJyZ07Zo",
+        "is_personal_best": false
+    },
+    {
+        "date": "2022-01-07",
+        "event": "2022 Walt Disney World 10k",
+        "type": "10k",
+        "location": "Orlando, FL",
+        "results": "https://www.trackshackresults.com/disneysports/results/wdw/wdw22/10k_results.php?Link=115&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "01:04:39",
+        "recap_video": "https://www.youtube.com/watch?v=qk6eSyWQoVA",
+        "is_personal_best": false
+    },
+    {
+        "date": "2022-01-06",
+        "event": "2022 Walt Disney World 5k",
+        "type": "5k",
+        "location": "Orlando, FL",
+        "results": "https://www.strava.com/activities/6480385430",
+        "finish_time": "00:28:58",
+        "recap_video": "https://www.youtube.com/watch?v=QUNzI9mrcTg",
+        "is_personal_best": false
+    },
+    {
+        "date": "2021-11-07",
+        "event": "2021 Wine and Dine Half Marathon",
+        "type": "half",
+        "location": "Orlando, FL",
+        "results": "https://www.trackshackresults.com/disneysports/results/wd/wd21/hm_results.php?Link=114&Type=1&Bib=104",
+        "finish_time": "02:16:10",
+        "recap_video": "https://www.youtube.com/watch?v=QKt1g56btmM",
+        "is_personal_best": false
+    },
+    {
+        "date": "2021-10-10",
+        "event": "2021 Long Beach Half Marathon",
+        "type": "half",
+        "location": "Long Beach, CA",
+        "results": "https://resultscui.active.com/participants/41002800",
+        "finish_time": "01:55:28",
+        "recap_video": "https://www.youtube.com/watch?v=9a7dRNkrZ5I",
+        "is_personal_best": false
+    },
+    {
+        "date": "2021-09-26",
+        "event": "2021 Rose Bowl Half Marathon",
+        "type": "half",
+        "location": "Pasadena, CA",
+        "results": "https://www.athlinks.com/event/359205/results/Event/987601/Course/2127472/Bib/2431",
+        "finish_time": "01:55:16",
+        "recap_video": "https://www.youtube.com/watch?v=5Bx3dgbz4R4",
+        "is_personal_best": false
+    },
+    {
+        "date": "2021-07-18",
+        "event": "2021 San Diego Half Marathon",
+        "type": "half",
+        "location": "San Diego, CA",
+        "results": "https://results.raceroster.com/en-US/results/detail/9snu4d9p5z7svjfg",
+        "finish_time": "02:06:08",
+        "recap_video": "https://www.youtube.com/watch?v=2rQtTPo9qW4",
+        "is_personal_best": false
+    },
+    {
+        "date": "2021-03-20",
+        "event": "2021 United NYC Virtual Half Marathon",
+        "type": "half",
+        "location": "Virtual",
+        "results": "https://www.strava.com/activities/4980509855",
+        "finish_time": "02:22:45",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": true
+    },
+    {
+        "date": "2020-08-22",
+        "event": "2020 Seawheeze Lululemon Virtual Half Marathon",
+        "type": "half",
+        "location": "Virtual",
+        "results": "https://www.strava.com/activities/3950579472/overview",
+        "finish_time": "02:01:57",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": true
+    },
+    {
+        "date": "2020-01-12",
+        "event": "2020 Walt Disney World Marathon",
+        "type": "marathon",
+        "location": "Orlando, FL",
+        "results": "https://www.trackshackresults.com/disneysports/results/wdw/wdw20/mar_results.php?Link=99&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "05:30:19",
+        "recap_video": "https://www.youtube.com/watch?v=lJ5npUR9xTc",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
+        "date": "2020-01-11",
+        "event": "2020 Walt Disney World Half Marathon",
+        "type": "half",
+        "location": "Orlando, FL",
+        "results": "https://www.trackshackresults.com/disneysports/results/wdw/wdw20/hm_results.php?Link=98&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "02:06:06",
+        "recap_video": "https://www.youtube.com/watch?v=mtsiSJYk_LQ",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
+        "date": "2019-11-03",
+        "event": "2019 Santa Clarita Half Marathon",
+        "type": "half",
+        "location": "Santa Clarita, CA",
+        "results": "https://www.runraceresults.com/Secure/individual-results.cfm?theRace=2&theEvent=RCEW2019&firstName=ryan&lastName=valle&bibNumber=1828",
+        "finish_time": "01:52:38",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
+        "date": "2019-10-13",
+        "event": "2019 Long Beach Half Marathon",
+        "type": "half",
+        "location": "Long Beach, CA",
+        "results": "http://results.xacte.com/?id=2315&tagcode=14502",
+        "finish_time": "01:42:37",
+        "recap_video": "",
+        "is_personal_best": true,
+        "is_virtual": false
+    },
+    {
+        "date": "2019-03-24",
+        "event": "2019 Los Angeles Marathon",
+        "type": "marathon",
+        "location": "Los Angeles, CA",
+        "results": "https://live.xacte.com/lamarathon/?id=2232&tagcode=14917",
+        "finish_time": "05:18:15",
+        "recap_video": "https://www.youtube.com/watch?v=Fvyc-cef_ic",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
+        "date": "2019-03-16",
+        "event": "2019 Virtual NYC Half Marathon",
+        "type": "half",
+        "location": "Virtual",
+        "results": "https://www.strava.com/activities/2217539714",
+        "finish_time": "02:12:56",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": true
+    },
+    {
+        "date": "2019-01-13",
+        "event": "2019 Walt Disney World Marathon",
+        "type": "marathon",
+        "location": "Orlando, FL",
+        "results": "https://www.trackshackresults.com/disneysports/results/wdw/wdw19/mar_results.php?Link=90&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "05:47:27",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
+        "date": "2019-01-11",
+        "event": "2019 Walt Disney World 10K",
+        "type": "10k",
+        "location": "Orlando, FL",
+        "results": "https://www.trackshackresults.com/disneysports/results/wdw/wdw19/10k_results.php?Link=88&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "01:13:25",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
+        "date": "2019-01-10",
+        "event": "2019 Walt Disney World 5K",
+        "type": "5k",
+        "location": "Orlando, FL",
+        "results": "",
+        "finish_time": "",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
+        "date": "2018-03-18",
+        "event": "2018 Los Angeles Marathon",
+        "type": "marathon",
+        "location": "Los Angeles, CA",
+        "results": "https://www.trackshackresults.com/lamarathon/results/2018/mar_results.php?Link=14&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "06:10:30",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
+        "date": "2017-11-12",
+        "event": "2017 Avengers Super Heroes Half Marathon",
+        "type": "half",
+        "location": "Anaheim, CA",
+        "results": "https://www.trackshackresults.com/disneysports/results/av/sh17/hm_results.php?Link=78&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "02:25:44",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
+        "date": "2017-11-11",
+        "event": "2017 Thor 10k",
+        "type": "10k",
+        "location": "Anaheim, CA",
+        "results": "https://www.trackshackresults.com/disneysports/results/av/sh17/10k_results.php?Link=77&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "01:34:40",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
+        "date": "2017-01-08",
+        "event": "2017 Walt Disney World Marathon",
+        "type": "marathon",
+        "location": "Orlando, FL",
+        "results": "https://www.trackshackresults.com/disneysports/results/wdw/wdw17/mar_results.php?Link=62&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "07:20:50",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
+        "date": "2017-01-08",
+        "event": "2016 Disneyland Half Marathon",
+        "type": "half",
+        "location": "Anaheim, CA",
+        "results": "https://www.trackshackresults.com/disneysports/results/dl/dl16/hm_results.php?Link=55&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "02:16:31",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
+        "date": "2016-04-17",
+        "event": "2016 Star Wars Half Marathon",
+        "type": "half",
+        "location": "Orlando, FL",
+        "results": "https://www.trackshackresults.com/disneysports/results/swds/swds16/hm_results.php?Link=50&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "02:29:01",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
+        "date": "2015-11-15",
+        "event": "2015 Captain America 10k",
+        "type": "10k",
+        "location": "Anaheim, CA",
+        "results": "https://www.trackshackresults.com/disneysports/results/av/av15/10k_results.php?Link=39&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "01:11:25",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
+        "date": "2015-09-06",
+        "event": "2015 Disneyland Half Marathon",
+        "type": "half",
+        "location": "Anaheim, CA",
+        "results": "https://www.trackshackresults.com/disneysports/results/dl/dl15/hm_results.php?Link=37&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "02:42:10",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": false
+    }
+]
