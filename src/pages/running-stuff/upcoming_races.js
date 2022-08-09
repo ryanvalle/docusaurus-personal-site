@@ -18,7 +18,7 @@ export const columns = [
     {
       Header: "Date",
       accessor: "date",
-      className: "data-table w10",
+      className: "data-table w15",
       Cell: ({ cell: { value } }) => {
         const d = new Date(`${value}T08:00:00+0800`);
         const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'];
@@ -30,7 +30,7 @@ export const columns = [
     {
       Header: "Event",
       accessor: "event",
-      className: "data-table w50",
+      className: "data-table w60",
       width: 50,
       Cell: ({ cell: { value }, row: { original } }) => {
         return <a href={`${original.url}`} target="blank" rel="noreferrer noopener">{`${value}`}</a>;

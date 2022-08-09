@@ -5,6 +5,18 @@ export const previousRaces = previous_races;
 
 export const columns = [
     {
+      Header: "PB",
+      accessor: "is_personal_best",
+      className: "data-table",
+      Cell: ({ cell: { value } }) => {
+        if (value) {
+          return <span>&#128293;</span>
+        } else {
+          return '';
+        }
+      } 
+    },
+    {
       Header: "Date",
       accessor: "date",
       className: "data-table",
@@ -26,7 +38,7 @@ export const columns = [
     {
       Header: "Event",
       accessor: "event",
-      className: "data-table"
+      className: "data-table w20"
     },
     {
       Header: "Finish Time",
@@ -71,7 +83,7 @@ export const columns = [
     {
       Header: "Location",
       accessor: "location",
-      className: "data-table twenty",
+      className: "data-table",
     },
     {
       Header: "Recap Video",
