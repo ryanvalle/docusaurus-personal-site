@@ -1,6 +1,6 @@
 [
     {
-        "date": "2023-01-12",
+        "date": "2023-01-08",
         "event": "2023 Walt Disney World Marathon",
         "type": "marathon",
         "location": "Orlando, FL",
@@ -9,8 +9,8 @@
     {
         "date": "2023-01-15",
         "event": "2023 Rose Bowl Half Marathon",
-        "type": "halfmarathon",
+        "type": "half",
         "location": "Pasadena, CA",
         "link": "https://www.mccourtfoundation.org/pages/rose-bowl-half-marathon"
     }
-]
+  ]

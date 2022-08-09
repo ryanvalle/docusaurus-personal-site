@@ -4,8 +4,10 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import TextBlock from '@site/src/components/TextBlock';
 import GenericHeader from '@site/src/components/GenericHeader';
+import DataTable from "@site/src/components/DataTable"; 
+import {columns as upcomingRacesColumns, upcomingRaces} from './upcoming_races.js'
 
-import styles from './running.module.css';
+import './running.module.css';
 
 export default function Running() {
   const {siteConfig} = useDocusaurusContext();
@@ -28,6 +30,7 @@ export default function Running() {
           </ul>
           <p>To me, running has become a core part of my lifestyle. While many just view it as a workout, to me it's more than that. After a long day of work or going through a busy week, running gives me that escape to just de-stress, get some fresh air, and clear my mind. It's helped me a lot in helping manage my stress in addition to staying fit. In addition, signing up for a running event like a marathon gives me a goal to work towards. This allows me to stay motivated to keep improving myself, and as the event nears, gives me something to look forward to and be excited about. Some may count down the days until the next Comic Con or major holiday. I like to count down the days until my next race (currently for January 8, 2023).</p>
           <h2>Upcoming Races</h2>
+          <DataTable columns={upcomingRacesColumns} data={upcomingRaces} width="100%"/>
         </TextBlock>
       </main>
     </Layout>

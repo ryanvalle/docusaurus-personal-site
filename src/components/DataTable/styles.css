@@ -1,0 +1,18 @@
+.data-table {
+    text-align: center;
+}
+.data-table.w50 {
+    width: 50%;
+}
+.data-table.w40 {
+    width: 40%;
+}
+.data-table.w30 {
+    width: 30%;
+}
+.data-table.w20 {
+    width: 20%;
+}
+.data-table.w10 {
+    width: 10%;
+}
