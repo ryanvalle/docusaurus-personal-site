@@ -8,7 +8,7 @@ export default function HomepageHeader({header, subtext}) {
       <div className="container">
         <div className={styles.heroText}>
           <h1 className="hero__title">{header}</h1>
-          <p className="hero__subtitle">{subtext}}</p>
+          <p className="hero__subtitle">{subtext}</p>
         </div>
       </div>
     </header>
