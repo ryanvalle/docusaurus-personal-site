@@ -14,7 +14,7 @@ Welcome to my site. I've rebuilt my site with Docusaurus and features four prima
 :::
 
 Welcome to updated site! After learning about [Docusaurus](https://docusaurus.io), I wanted to try out the new framework and decided that rebuilding my personal site would be a fun little side project and a decent upgrade to what I had [before](https://next-website-xi.vercel.app).
-
+<!--truncate-->
 Docusaurus' focus on documentation creation was very appealing to me because that would allow me to build something that was easily maintainable/updatable without relying on some fancy CMS in the backend. On top of that, since its a statically generated site, it gave me opportunities for some cheap hosting options and even the ability to do things within Github Pages if i wanted to. In this case, I'm using Vercel because I really enjoy their service and was using them already for some past personal projects.
 
 ## So What's New?
