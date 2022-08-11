@@ -15,9 +15,9 @@ function HomepageHeader() {
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
         </div>
-        <video className={styles.heroVideo} autoPlay={true} loop={true} muted={true} poster="/videos/poster.png" playsinline={true} controls={false}>
-          <source src="/videos/emoji.mov" type="video/quicktime"></source>
-          <source src="/videos/emoji.webm" type="video/webm"></source>
+        <video className={styles.heroVideo} autoPlay={true} loop={true} muted={true} poster="/videos/poster.png" playsInline={true} controls={false}>
+          <source src="https://res.cloudinary.com/drvvky8r9/video/upload/v1660188675/emoji_fw6mvf.mov" type="video/quicktime"></source>
+          <source src="https://res.cloudinary.com/drvvky8r9/video/upload/v1660188675/emoji_fw6mvf.mov" type="video/webm"></source>
         </video>
       </div>
     </header>
