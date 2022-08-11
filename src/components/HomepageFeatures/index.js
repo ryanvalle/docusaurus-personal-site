@@ -4,11 +4,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Software/Web Developer',
+    title: 'Software Engineer',
     Svg: require('@site/static/svg/ud_programming.svg').default,
     description: (
       <>
-        By profession, I'm a software developer, mainly building web sites and web apps. I've got full stack experience. Currently, I work as a lead software engineer for an e-commerce site.
+        By profession, I'm a software engineer, mainly building web sites and web apps. I've got full stack experience. Currently, I'm a lead software engineer working on an e-commerce site.
       </>
     ),
   },
@@ -52,7 +52,7 @@ export default function HomepageFeatures() {
       <div className="container">
         <h2>Hello!</h2>
         <p>My name is Ryan and welcome to my site. If you're looking to learn more about what I do professionally, then check out the resumé page, or go find me on LinkedIn. Being transparent, I'm not actively searching for work so there's a good chance I'll be unresponsive to recruiters.</p>
-        <p>For me, this site is just a place for me to experiment, mess around, and try new things in web and software development that may be interesting to me. For example, I learned about <a href="https://docusaurus.io" target="_blank">Docusuarus</a>, and that became a drive to build this out. It was something new, but offered a lot default functionality to let me get to the fun stuff.</p>
+        <p>For me, this site is just a place for me to experiment, mess around, and try new things in web development and software engineering that may be interesting to me. For example, I learned about <a href="https://docusaurus.io" target="_blank">Docusuarus</a>, and that became a drive to build this out. It was something new, but offered a lot default functionality to let me get to the fun stuff.</p>
         <p>Lastly, I also want to get back into blogging as a way to share stuff I know with the world. Sure, there's Medium and other online platforms for that, but that doesnt help me with experimenting with web development, so here I am setting something up independently. I have this goal to build this out as a place where I can dump knowledge for the bots to find, to populate search engine indexes, and allow random strangers to find and consume that content to learn. One can dream.</p>
         <p>Thanks for visiting, and enjoy whatever random things you might find here.</p>
         <h2 className={styles.heading}>Quick Summary - Who am I?</h2>
