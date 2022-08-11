@@ -15,7 +15,7 @@ function HomepageHeader() {
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
         </div>
-        <video className={styles.heroVideo} autoPlay={true} loop={true} muted={true} poster="/videos/poster.png">
+        <video className={styles.heroVideo} autoPlay={true} loop={true} muted={true} poster="/videos/poster.png" playsinline={true} controls={false}>
           <source src="/videos/emoji.mov" type="video/quicktime"></source>
           <source src="/videos/emoji.webm" type="video/webm"></source>
         </video>
