@@ -17,7 +17,7 @@ function HomepageHeader() {
         </div>
         <video className={styles.heroVideo} autoPlay={true} loop={true} muted={true} poster="/videos/poster.png" playsInline={true} controls={false}>
           <source src="https://res.cloudinary.com/drvvky8r9/video/upload/v1660188675/emoji_fw6mvf.mov" type="video/quicktime"></source>
-          <source src="https://res.cloudinary.com/drvvky8r9/video/upload/v1660188675/emoji_fw6mvf.mov" type="video/webm"></source>
+          <source src="https://res.cloudinary.com/drvvky8r9/video/upload/v1660188669/emoji_u7kcuu.webm" type="video/webm"></source>
         </video>
       </div>
     </header>
