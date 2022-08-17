@@ -1,0 +1,10 @@
+{
+    "label": "Developer Tools",
+    "link": {
+      "type": "generated-index",
+      "title": "Developer Tools"
+    },
+    "customProps": {
+      "description": "This description can be used in the swizzled DocCard"
+    }
+  }

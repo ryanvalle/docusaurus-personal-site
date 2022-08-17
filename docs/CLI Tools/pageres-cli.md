@@ -1,4 +1,5 @@
 ---
+slug: /category/command-line-tools/pageres-cli
 tags:
 - node
 - npm
