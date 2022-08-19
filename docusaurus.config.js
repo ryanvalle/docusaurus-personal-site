@@ -32,9 +32,10 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        // docs: {
-        //   sidebarPath: require.resolve('./sidebars.js'),
-        // },
+        docs: {
+          // sidebarPath: require.resolve('./sidebars.js'),
+          showLastUpdateTime: true
+        },
         blog: {
           showReadingTime: true
         },
