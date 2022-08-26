@@ -155,6 +155,18 @@ const config = {
         defaultMode: 'dark',
         disableSwitch: false,
         respectPrefersColorScheme: true,
+      },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'L69P927TDR',
+  
+        // Public API key: it is safe to commit it
+        apiKey: 'cf013a8603073d7294a1369c7bae47aa',
+  
+        indexName: 'ryanvalle',
+  
+        // Optional: see doc section below
+        contextualSearch: true
       }
     }),
     
