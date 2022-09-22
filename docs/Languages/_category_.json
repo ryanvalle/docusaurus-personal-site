@@ -1,0 +1,10 @@
+{
+    "label": "Languages",
+    "link": {
+      "type": "generated-index",
+      "title": "Languages - Table of Context"
+    },
+    "customProps": {
+      "description": "A collection of random tips and stuff for various languages."
+    }
+  }
