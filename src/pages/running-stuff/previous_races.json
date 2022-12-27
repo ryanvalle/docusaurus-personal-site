@@ -200,6 +200,17 @@
         "is_virtual": false
     },
     {
+        "date": "2019-01-12",
+        "event": "2019 Walt Disney World Half Marathon",
+        "type": "half",
+        "location": "Orlando, FL",
+        "results": "https://www.trackshackresults.com/disneysports/results/wdw/wdw19/hm_results.php?Link=89&Type=3&LName=valle&FName=ryan&City=&State=&Country=",
+        "finish_time": "02:13:21",
+        "recap_video": "",
+        "is_personal_best": false,
+        "is_virtual": false
+    },
+    {
         "date": "2019-01-11",
         "event": "2019 Walt Disney World 10K",
         "type": "10k",
@@ -266,7 +277,7 @@
         "is_virtual": false
     },
     {
-        "date": "2017-01-08",
+        "date": "2016-09-04",
         "event": "2016 Disneyland Half Marathon",
         "type": "half",
         "location": "Anaheim, CA",
