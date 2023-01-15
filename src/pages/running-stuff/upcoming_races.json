@@ -1,12 +1,5 @@
 [
     {
-        "date": "2023-01-08",
-        "event": "2023 Walt Disney World Marathon",
-        "type": "marathon",
-        "location": "Orlando, FL",
-        "url": "https://www.rundisney.com/events/disneyworld/disneyworld-marathon-weekend/"
-    },
-    {
         "date": "2023-01-15",
         "event": "2023 Rose Bowl Half Marathon",
         "type": "half",
