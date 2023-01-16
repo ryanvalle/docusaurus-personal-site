@@ -1,6 +1,16 @@
 
 [
     {
+        "date": "2023-01-15",
+        "event": "2023 Rose Bowl Half Marathon",
+        "type": "half",
+        "location": "Pasadena, CA",
+        "results": "https://www.athlinks.com/event/375304/results/Event/1040697/Course/2328944/Bib/5638",
+        "finish_time": "02:03:53",
+        "recap_video": "",
+        "is_personal_best": false
+    },
+    {
         "date": "2023-01-08",
         "event": "2023 Walt Disney World Marathon",
         "type": "marathon",
