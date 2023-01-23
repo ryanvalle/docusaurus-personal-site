@@ -117,9 +117,13 @@ const config = {
                 href: 'https://www.instagram.com/therunningryan',
               },
               {
+                label: 'Tumblr',
+                href: 'https://from-my-camera.tumblr.com'
+              },
+              {
                 label: 'Twitter',
                 href: 'https://www.twitter.com/ryanvalle',
-              },
+              }
             ],
           },
           {
