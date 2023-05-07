@@ -5,5 +5,19 @@
         "type": "marathon",
         "location": "Chicago, IL",
         "url": "https://www.chicagomarathon.com"
+    },
+    {
+        "date": "2024-01-13",
+        "event": "2024 Disneyland 10k",
+        "type": "10k",
+        "location": "Anaheim, CA",
+        "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/"
+    },
+    {
+        "date": "2024-01-14",
+        "event": "2024 Disneyland Half Marathon",
+        "type": "half",
+        "location": "Anaheim, CA",
+        "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/"
     }
   ]
