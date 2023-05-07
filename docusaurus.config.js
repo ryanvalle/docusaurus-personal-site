@@ -81,6 +81,11 @@ const config = {
             docId: 'overview',
             position: 'left',
             label: 'Knowledge Share',
+          },
+          {
+            position: 'left',
+            label: 'photos.by.ryan',
+            href: 'https://photos.ryanvalle.me'
           }
         ],
       },
@@ -102,6 +107,10 @@ const config = {
               {
                 label: 'Random Thoughts & Stuff',
                 to: '/blog',
+              },
+              {
+                label: 'photos.by.ryan',
+                href: 'https://photos.ryanvalle.me',
               }
             ],
           },
