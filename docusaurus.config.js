@@ -71,11 +71,11 @@ const config = {
             label: 'Running Stuff', 
             position: 'left'
           },
-          {
-            to: '/blog', 
-            label: 'Random Thoughts in Writing', 
-            position: 'left'
-          },
+          // {
+          //   to: '/blog', 
+          //   label: 'Random Thoughts in Writing', 
+          //   position: 'left'
+          // },
           {
             type: 'doc',
             docId: 'overview',
