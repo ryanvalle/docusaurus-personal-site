@@ -85,7 +85,7 @@ const config = {
           {
             position: 'left',
             label: 'photos.by.ryan',
-            href: 'https://photos.ryanvalle.me'
+            href: 'https://photos.ryannn.xyz'
           }
         ],
       },
