@@ -1,12 +1,5 @@
 [
     {
-        "date": "2023-10-08",
-        "event": "2023 Chicago Marathon",
-        "type": "marathon",
-        "location": "Chicago, IL",
-        "url": "https://www.chicagomarathon.com"
-    },
-    {
         "date": "2024-01-06",
         "event": "2024 Walt Disney World Half Marathon",
         "type": "half",
@@ -26,5 +19,12 @@
         "type": "half",
         "location": "Anaheim, CA",
         "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/"
+    },
+    {
+        "date": "2024-04-21",
+        "event": "2024 Springtime Surprise - Hakuna Matata 10-miler",
+        "type": "10 miles",
+        "location": "Anaheim, CA",
+        "url": "https://www.rundisney.com/events/disneyworld/springtime-surprise-weekend/"
     }
   ]
