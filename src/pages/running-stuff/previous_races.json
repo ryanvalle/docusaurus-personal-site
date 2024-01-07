@@ -1,6 +1,16 @@
 
 [
     {
+        "date": "2024-01-06",
+        "event": "2024 Walt Disney World Half Marathon (modified course)",
+        "type": "7.1 miles",
+        "location": "Orlando, FL",
+        "results": "https://www.trackshackresults.com/disneysports/results/wdw/wdw24/hm_results.php?Link=134&Type=1&Bib=40409",
+        "finish_time": "01:20:56",
+        "recap_video": "https://www.youtube.com/watch?v=8ag4QyVttrE",
+        "is_personal_best": false
+    },
+    {
         "date": "2023-01-15",
         "event": "2023 Rose Bowl Half Marathon",
         "type": "half",
