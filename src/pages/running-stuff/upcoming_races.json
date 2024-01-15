@@ -1,23 +1,17 @@
 [
-    {
-        "date": "2024-01-13",
-        "event": "2024 Disneyland 10k",
-        "type": "10k",
-        "location": "Anaheim, CA",
-        "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/"
-    },
-    {
-        "date": "2024-01-14",
-        "event": "2024 Disneyland Half Marathon",
-        "type": "half",
-        "location": "Anaheim, CA",
-        "url": "https://www.rundisney.com/events/disneyland/disneyland-half-marathon-weekend/"
-    },
+    
     {
         "date": "2024-04-21",
         "event": "2024 Springtime Surprise - Hakuna Matata 10-miler",
         "type": "10 miles",
         "location": "Anaheim, CA",
         "url": "https://www.rundisney.com/events/disneyworld/springtime-surprise-weekend/"
+    },
+    {
+        "date": "2024-10-08",
+        "event": "2024 Chicago Marathon",
+        "type": "marathon",
+        "location": "Chicago, CA",
+        "url": "https://www.chicagomarathon.com/"
     }
   ]

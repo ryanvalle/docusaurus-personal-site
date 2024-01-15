@@ -1,6 +1,25 @@
 
 [
     {
+        "date": "2024-01-14",
+        "event": "2024 Disneyland Half Marathon",
+        "type": "half",
+        "location": "Anaheim, CA",
+        "results": "https://www.trackshackresults.com/disneysports/results/dl/dl24/hm_results.php?Link=137&Type=1&Bib=20238",
+        "finish_time": "02:28:57",
+        "is_personal_best": false
+    },
+    {
+        "date": "2024-01-13",
+        "event": "2024 Disneyland 10k",
+        "type": "10k",
+        "location": "Anaheim, CA",
+        "results": "https://www.trackshackresults.com/disneysports/results/dl/dl24/10k_results.php?Link=136&Type=1&Bib=20238",
+        "finish_time": "01:16:52",
+        "recap_video": "https://www.youtube.com/watch?v=PleX2yGfaH8",
+        "is_personal_best": false
+    },
+    {
         "date": "2024-01-06",
         "event": "2024 Walt Disney World Half Marathon (modified course)",
         "type": "7.1 miles",
