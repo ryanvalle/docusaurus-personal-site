@@ -1,6 +1,12 @@
 [
     
     {
+        "date": "2024-03-17",
+        "event": "2024 Los Angeles Charity Half Marathon",
+        "type": "half",
+        "location": "Los Angeles, CA",
+        "url": "https://fundraisers.hakuapp.com/therunningryan"
+    },{
         "date": "2024-04-21",
         "event": "2024 Springtime Surprise - Hakuna Matata 10-miler",
         "type": "10 miles",
