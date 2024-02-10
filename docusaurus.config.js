@@ -67,7 +67,7 @@ const config = {
             target: 'blank'
           },
           {
-            to: '/running-stuff', 
+            href: 'https://running.ryannn.xyz',
             label: 'Running Stuff', 
             position: 'left'
           },
@@ -102,7 +102,7 @@ const config = {
               },
               {
                 label: 'Running Stuff',
-                to: '/running-stuff',
+                href: 'https://photos.ryannn.xyz'
               },
               {
                 label: 'Random Thoughts & Stuff',
