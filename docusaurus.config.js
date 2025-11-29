@@ -1,8 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -40,7 +39,7 @@ const config = {
           showReadingTime: true
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: './src/css/custom.css',
         },
         gtag: {
           trackingID: 'G-KC00M09NT5',
@@ -161,8 +160,8 @@ const config = {
         copyright: `Copyright ©${new Date().getFullYear()}. Made for fun with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
       colorMode: {
         defaultMode: 'dark',
@@ -185,4 +184,4 @@ const config = {
     
 };
 
-module.exports = config;
+export default config;
